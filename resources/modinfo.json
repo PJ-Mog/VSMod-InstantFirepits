@@ -1,14 +1,12 @@
 {
-	"type": "code",
-	"name": "HowtoExample",
-	"modid": "howtoexample",
-	"version": "1.2.0",
-	
-	"description" : "An example mod using VS Code and .NET Core",
-	"website": "https://github.com/copygirl/howto-example-mod",
-	"authors": [ "copygirl" ],
-	
+	"type": "Code",
+	"name": "More Tinder",
+	"modid": "moretinder",
+	"version": "2.0.0",
 	"dependencies": {
-		"game": "1.8.0"
-	}
+		"game": "1.14.8",
+		"survival": "1.14.8"
+	},
+	"side": "Universal",
+	"requiredOnClient": true
 }
