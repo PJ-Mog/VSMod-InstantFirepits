@@ -2,7 +2,11 @@
 	"type": "Code",
 	"name": "More Tinder",
 	"modid": "moretinder",
-	"version": "2.0.0",
+	"version": "2.0.1",
+	"description": "More ways to start a firepit!... sort of",
+	"website": "https://github.com/JapanHasRice/VSMod-MoreTinder",
+	"authors": [ "JapanHasRice" ],
+	"contributors": [ "BotenRedWolf", "goxmeor" ],
 	"dependencies": {
 		"game": "1.14.8",
 		"survival": "1.14.8"

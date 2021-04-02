@@ -1,7 +1,6 @@
 using Vintagestory.API.Common;
 
-[assembly: ModInfo("More Tinder", "moretinder", Version = "2.0.0", Authors = new string[] { "JapanHasRice", "goxmeor", "BotenRedWolf" },
-        Website = "https://github.com/JapanHasRice/VSMod-MoreTinder", Description = "More ways to start a firepit!... sort of", RequiredOnClient = true)]
+[assembly: ModInfo("More Tinder", "moretinder")]
 
 namespace MoreTinder {
   public class MoreTinder : ModSystem {
