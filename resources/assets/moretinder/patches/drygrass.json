@@ -1,8 +1,0 @@
-[
-    {
-        "op": "replace",
-        "path": "/class",
-        "value": "ItemDryGrassMoreTinder",
-        "file": "game:itemtypes/resource/drygrass.json"
-    }
-]

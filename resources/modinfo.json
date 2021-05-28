@@ -1,16 +1,16 @@
 {
-	"type": "Code",
-	"name": "More Tinder",
-	"modid": "moretinder",
-	"version": "2.0.1",
-	"description": "More ways to start a firepit!... sort of",
-	"website": "https://github.com/JapanHasRice/VSMod-MoreTinder",
-	"authors": [ "JapanHasRice" ],
-	"contributors": [ "BotenRedWolf", "goxmeor" ],
-	"dependencies": {
-		"game": "1.14.8",
-		"survival": "1.14.8"
-	},
-	"side": "Universal",
-	"requiredOnClient": true
+  "type": "Code",
+  "name": "Instant Firepits",
+  "modid": "instantfirepits",
+  "version": "2.1.0",
+  "description": "Firepits construct instantly, no need for 4 firewood.",
+  "website": "https://github.com/JapanHasRice/VSMod-MoreTinder",
+  "authors": [ "JapanHasRice" ],
+  "contributors": [ "goxmeor" ],
+  "dependencies": {
+    "game": "",
+    "survival": ""
+  },
+  "side": "Universal",
+  "requiredOnClient": true
 }
