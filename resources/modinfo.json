@@ -2,15 +2,16 @@
   "type": "Code",
   "name": "Instant Firepits",
   "modid": "instantfirepits",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Firepits construct instantly, no need for 4 firewood.",
   "website": "https://github.com/PJ-Mog/VSMod-InstantFirepits",
   "authors": [ "JapanHasRice" ],
   "contributors": [ "goxmeor" ],
   "dependencies": {
-    "game": "1.17.0",
+    "game": "1.18.0-pre.3",
     "survival": ""
   },
   "side": "Universal",
-  "requiredOnClient": true
+  "requiredOnClient": true,
+  "requiredOnServer": true
 }

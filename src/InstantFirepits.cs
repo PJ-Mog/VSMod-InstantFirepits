@@ -1,8 +1,6 @@
 using Vintagestory.API.Common;
 using Vintagestory.API.Util;
 
-[assembly: ModInfo("Instant Firepits", "instantfirepits")]
-
 namespace InstantFirepits {
   public class InstantFirepits : ModSystem {
     public override void Start(ICoreAPI api) {
