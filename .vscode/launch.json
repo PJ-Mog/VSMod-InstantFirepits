@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Launch Client (.NET)",
-      "type": "clr",
+      "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "Build (Debug)",
       "program": "${env:VINTAGE_STORY_DEV}/${input:vsVersion}/Vintagestory.exe",
@@ -42,11 +42,12 @@
       "id": "vsVersion",
       "description": "What version of Vintage Story do you want to launch?",
       "options": [
+        "1.20",
         "1.19",
         "1.18",
         "1.17"
       ],
-      "default": "1.19"
+      "default": "1.20"
     }
   ]
 }
